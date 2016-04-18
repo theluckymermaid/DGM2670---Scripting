@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\CheckPointHandler.cs">
+    <Files>
+      <File FileName="Assets\scripts\CheckPoint.cs" Line="12" Column="2" />
+      <File FileName="Assets\scripts\CheckPointHandler.cs" Line="25" Column="1" />
+      <File FileName="Assets\scripts\Menu.cs" Line="22" Column="1" />
+      <File FileName="Assets\scripts\PauseMenu.cs" Line="41" Column="2" />
+      <File FileName="Assets\scripts\GameManager.cs" Line="62" Column="109" />
+      <File FileName="Assets\scripts\Movement.cs" Line="31" Column="34" />
+      <File FileName="Assets\scripts\HandlePlatform.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\MovingPlatform.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\JumpPotion.cs" Line="7" Column="22" />
+      <File FileName="Assets\scripts\CameraMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\followpath.cs" Line="55" Column="5" />
+      <File FileName="Assets\scripts\Score.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\CoinPickup.cs" Line="10" Column="58" />
+      <File FileName="Assets\scripts\AttackTrigger.cs" Line="18" Column="2" />
+      <File FileName="Assets\scripts\LifeManager.cs" Line="56" Column="2" />
+      <File FileName="Assets\scripts\Potions.cs" Line="15" Column="3" />
+      <File FileName="Assets\scripts\PowerUpBase.cs" Line="13" Column="2" />
+      <File FileName="Assets\scripts\ResetPowerUp.cs" Line="35" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
